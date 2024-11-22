@@ -176,8 +176,8 @@ DISCUSSION_TITLE = "Click Here"
 DISCUSSION_CHAT_USRNM = "Discusss_Here" #without @
 
 # Download Tutorial Button #
-DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://t.me/vegamoviesnewin"
+DOWNLOAD_TEXT_NAME = "📥 Without Ad Download 📥"
+DOWNLOAD_TEXT_URL = "https://t.me/vegamoviesnewin/223"
 
 # Custom Caption Under Button #
 CAPTION_BUTTON = "Get Updates"
