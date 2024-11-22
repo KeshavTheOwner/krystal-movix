@@ -405,7 +405,7 @@ async def next_page(bot, query):
         ])
     btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ⚡", url='https://telegram.me/vegamoviesnewin'),
+	    InlineKeyboardButton(text="⚡ Without Ad Download ⚡", url='https://telegram.me/vegamoviesnewin'),
         ] 
     )
     if 0 < offset <= 10:
