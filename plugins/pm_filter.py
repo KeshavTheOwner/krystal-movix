@@ -725,7 +725,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
         ])
         btn.insert(0,
             [ 
-            InlineKeyboardButton(text="⚡ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ⚡", url='https://telegram.me/vegamoviesnewin'),
+            InlineKeyboardButton(text="⚡ WITHOUT AD DOWNLOAD ⚡", url='https://telegram.me/vegamoviesnewin'),
             ] 
         )
 
@@ -1038,7 +1038,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
         ])
         btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ⚡", url='https://telegram.me/vegamoviesnewin'),
+	    InlineKeyboardButton(text="⚡ WITHOUT AD DOWNLOAD ⚡", url='https://telegram.me/vegamoviesnewin'),
         ] 
     )
 
@@ -1323,7 +1323,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         ])
         btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ⚡", url='https://telegram.me/vegamoviesnewin'),
+	    InlineKeyboardButton(text="⚡ WITHOUT AD DOWNLOAD ⚡", url='https://telegram.me/vegamoviesnewin'),
         ])
 
         if offset != "":
