@@ -405,7 +405,7 @@ async def next_page(bot, query):
         ])
     btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ HOW TO Download ⚡", url='https://t.me/New_Bollywood_Movies_003/814'),
+	    InlineKeyboardButton(text="⚡ HOW TO Download ⚡", url='https://t.me/akimax03/814'),
         ] 
     )
     if 0 < offset <= 10:
@@ -725,7 +725,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
         ])
         btn.insert(0,
             [ 
-            InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/New_Bollywood_Movies_003/814'),
+            InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/akimax03/814'),
             ] 
         )
 
@@ -1038,7 +1038,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
         ])
         btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/New_Bollywood_Movies_003/814'),
+	    InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/akimax03/814'),
         ] 
     )
 
@@ -1323,7 +1323,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         ])
         btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/New_Bollywood_Movies_003/814'),
+	    InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/akimax03/814'),
         ])
 
         if offset != "":
@@ -2656,7 +2656,7 @@ async def auto_filter(client, msg, spoll=False):
     ])
     btn.insert(0,
     [ 
-    InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/New_Bollywood_Movies_003/814'),
+    InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/akimax03/814'),
     ])
 
     if offset != "":
