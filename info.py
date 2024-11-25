@@ -176,7 +176,7 @@ DISCUSSION_TITLE = "Click Here"
 DISCUSSION_CHAT_USRNM = "Discusss_Here" #without @
 
 # Download Tutorial Button #
-DOWNLOAD_TEXT_NAME = "📥 Without Ad Download 📥"
+DOWNLOAD_TEXT_NAME = "📥 HOW TO Download 📥"
 DOWNLOAD_TEXT_URL = "https://t.me/New_Bollywood_Movies_003/8143"
 
 # Custom Caption Under Button #
