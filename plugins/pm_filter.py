@@ -2656,7 +2656,7 @@ async def auto_filter(client, msg, spoll=False):
     ])
     btn.insert(0,
     [ 
-    InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/akimax03/814'),
+    InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/c/2339752522/814'),
     ])
 
     if offset != "":
