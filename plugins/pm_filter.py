@@ -2458,7 +2458,7 @@ async def auto_filter(client, msg, spoll=False):
                                                                                                                                         [InlineKeyboardButton("❌Reject Req", callback_data=f"notify_user_req_rejected:{user_id}:{requested_movie}")]
                                                                                                                                         ]))
                 
-                l = await message.reply_text(text=f"△ HeY `{message.from_user.first_name}`🥰,\nPlease Check Movie Spelling In Google And Type Correct Movie spelling On Group\n>🎥मूवी स्पेलिंग सही ह तो हम ये मूवी 10 मिनिट में अवेलेबल होगी।\n\n>🙏Please Don't Leave Group 🙏",
+                l = await message.reply_text(text=f"△ HeY `{message.from_user.first_name}`🥰,\nPlease Check Movie Spelling In Google And Type Correct Movie spelling On Group\n\n>🎥मूवी स्पेलिंग सही ह तो हम ये मूवी 10 मिनिट में अवेलेबल होगी।\n\n>🙏Please Don't Leave Group 🙏",
                                                                                                        reply_markup=InlineKeyboardMarkup([
                                                                                                                                         [ InlineKeyboardButton("HIN", callback_data="read_in_hin"),
                                                                                                                                           InlineKeyboardButton("ENG", callback_data="read_in_eng"),
