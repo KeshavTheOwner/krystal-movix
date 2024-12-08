@@ -2458,7 +2458,21 @@ async def auto_filter(client, msg, spoll=False):
                                                                                                                                         [InlineKeyboardButton("❌Reject Req", callback_data=f"notify_user_req_rejected:{user_id}:{requested_movie}")]
                                                                                                                                         ]))
                 
-                l = await message.reply_text(text=f"△ HeY `{message.from_user.first_name}`🥰,\nPlease Check Movie Spelling In Google And Type Correct Movie spelling On Group\n\n>🎥मूवी स्पेलिंग सही ह तो हम ये मूवी 10 मिनिट में अवेलेबल होगी।\n\n>🙏Please Don't Leave Group 🙏",
+                l = await message.reply_text(text=f"△ HeY `{message.from_user.first_name}`🥰,\nSᴘᴇʟʟɪɴɢ Mɪꜱᴛᴀᴋᴇ Bʀᴏ ‼️\n\nᴅᴏɴ'ᴛ ᴡᴏʀʀʏ 😊 Cʜᴏᴏꜱᴇ ᴛʜᴇ ᴄᴏʀʀᴇᴄᴛ ᴏɴᴇ ʙᴇʟᴏᴡ 👇\n\n>I couldn't find pushpa the rule  part 2 in my database 🤧
+Make sure it's OTT Released. 
+
+See the correct format for a movie/show below 👇
+Movie Format:
+  Inception Movie ❌
+  Inception Link Send ❌
+  Inception 2010 ✅
+
+Series Format:
+  Suits Full Series ❌
+  Suits Episode 1 ❌
+  Suits S01 ✅
+  Suits S01E01 ✅
+  \n\n>🙏Please Don't Leave Group 🙏",
                                                                                                        reply_markup=InlineKeyboardMarkup([
                                                                                                                                         [ InlineKeyboardButton("HIN", callback_data="read_in_hin"),
                                                                                                                                           InlineKeyboardButton("ENG", callback_data="read_in_eng"),
