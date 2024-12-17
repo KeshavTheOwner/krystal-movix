@@ -109,7 +109,7 @@ my_users = [int(my_users) if id_pattern.search(my_users) else my_users for my_us
 MY_USERS = (my_users) if my_users else [] #input the id of that users who can share file in file protection mode
 
 # Online Stream and Download
-PORT = int(environ.get('PORT', 8080))
+PORT = int(environ.get('PORT', 8081))
 NO_PORT = bool(environ.get('NO_PORT', False))
 APP_NAME = None
 if 'DYNO' in environ:
