@@ -93,14 +93,14 @@ MOVIE_GROUP_USERNAME = environ.get('MOVIE_GROUP_USERNAME', "movie_hub030") #[ wi
 
 # Url Shortner
 URL_MODE = is_enabled((environ.get("URL_MODE","True")), False) # make it true to enable url shortner in groups or pm
-URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'udlinks.com') #Always use website url from api section 
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '1853cdc2ad46a9f765f26e7b39cb66989fda42aa')
+URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'vegamoviesnew.in') #Always use website url from api section 
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '055341345685e4f41f9c5b37aa5ce463f888b1a2')
 
 #4 => verification_steps ! [Youtube@LazyDeveloperr]
 # URL SHORTNER FOR USER VERIFICATION
 IS_LAZYUSER_VERIFICATION = is_enabled((environ.get("IS_LAZYUSER_VERIFICATION","True")), False) # make it true to enable url shortner in groups or pm
-LAZY_SHORTNER_URL = environ.get('LAZY_SHORTNER_URL', 'udlinks.com')
-LAZY_SHORTNER_API = environ.get('LAZY_SHORTNER_API', '1853cdc2ad46a9f765f26e7b39cb66989fda42aa') #Always use website url from api section 
+LAZY_SHORTNER_URL = environ.get('LAZY_SHORTNER_URL', 'vegamoviesnew.in')
+LAZY_SHORTNER_API = environ.get('LAZY_SHORTNER_API', '055341345685e4f41f9c5b37aa5ce463f888b1a2') #Always use website url from api section 
 
 lazy_groups = environ.get('LAZY_GROUPS','')
 LAZY_GROUPS = [int(lazy_groups) for lazy_groups in lazy_groups.split()] if lazy_groups else None # ADD GROUP ID IN THIS VARIABLE 
