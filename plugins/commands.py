@@ -35,7 +35,7 @@ async def start(client, message):
                 [
                     InlineKeyboardButton('🙆🏻 Hᴇʟᴘ 🦾', url=f"https://t.me/{temp.U_NAME}?start=help"),
                 ],[
-                InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/vegamoviesnewin')
+                InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/nexuskingdom_officialhttps://t.me/vegamoviesnewin')
                 ],[
                 InlineKeyboardButton('💸 E𝐚𝐫𝐧 M𝐨𝐧𝐞𝐲 💸', callback_data="shortlink_info")
                 ],
@@ -51,7 +51,7 @@ async def start(client, message):
                 [
                     InlineKeyboardButton('🙆🏻 Hᴇʟᴘ 🦾', url=f"https://t.me/{temp.U_NAME}?start=help"),
                 ],[
-                InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/vegamoviesnewin')
+                InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/nexuskingdom_official')
                 ],
                 [
                     InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -82,7 +82,7 @@ async def start(client, message):
                 InlineKeyboardButton('⚙ Sᴇᴛᴛɪɴɢs', callback_data='openSettings'),
                 InlineKeyboardButton('♥️ Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/vegamoviesnewin')
+                InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/nexuskingdom_official')
                 ],[
                 InlineKeyboardButton('💸 E𝐚𝐫𝐧 M𝐨𝐧𝐞𝐲 💸', callback_data="shortlink_info")
                 ]]
@@ -99,7 +99,7 @@ async def start(client, message):
                 InlineKeyboardButton('⚙ Sᴇᴛᴛɪɴɢs', callback_data='openSettings'),
                 InlineKeyboardButton('♥️ Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/vegamoviesnewin')
+                InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/nexuskingdom_official')
                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -152,7 +152,7 @@ async def start(client, message):
                 InlineKeyboardButton('♥️ Aʙᴏᴜᴛ', callback_data='about')
                 ],
             [
-                InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/vegamoviesnewin')
+                InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/nexuskingdom_official')
             ],
             [
                 InlineKeyboardButton('💸 E𝐚𝐫𝐧 M𝐨𝐧𝐞𝐲 💸', callback_data="shortlink_info")
@@ -172,7 +172,7 @@ async def start(client, message):
                 InlineKeyboardButton('♥️ Aʙᴏᴜᴛ', callback_data='about')
                 ],
             [
-                InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/vegamoviesnewin')
+                InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/nexuskingdom_official')
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -303,7 +303,7 @@ async def start(client, message):
                                 InlineKeyboardButton('▶ Gen Stream / Download Link', callback_data=f'generate_stream_link:{file_id}'),
                             ],vegamoviesnewin
                             [
-                                InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=f'https://t.me/')
+                                InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=f'https://t.me/nexuskingdom_official')
                             ]
                         ]
                     )
@@ -398,7 +398,7 @@ async def start(client, message):
                             InlineKeyboardButton('📁 ᴅᴏᴡɴʟᴏᴀᴅ 📁', url=ghost_url)
                         ],
                         [
-                            InlineKeyboardButton('🎉 ʙᴜʏ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ : ʀᴇᴍᴏᴠᴇ ᴀᴅꜱ 🎊', callback_data="seeplans")
+                            InlineKeyboardButton('🎉 ʙᴜʏ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ : ʀᴇᴍᴏᴠᴇ ᴀᴅꜱ 🎊', callback_data="")
                         ]
                     ]
                 )
@@ -423,7 +423,7 @@ async def start(client, message):
                 [[
                     InlineKeyboardButton('📁 ᴅᴏᴡɴʟᴏᴀᴅ 📁', url=ghost)
                 ],[
-                    InlineKeyboardButton('✨ ʙᴜʏ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ : ʀᴇᴍᴏᴠᴇ ᴀᴅꜱ ✨', callback_data="seeplans")
+                    InlineKeyboardButton('✨ ʙᴜʏ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ : ʀᴇᴍᴏᴠᴇ ᴀᴅꜱ ✨', callback_data="")
                 ]]
             )
         )
@@ -497,7 +497,7 @@ async def start(client, message):
                         [
                             InlineKeyboardButton('📁 ᴅᴏᴡɴʟᴏᴀᴅ 📁', url=generatedurl)
                         ],[
-                            InlineKeyboardButton('✨ ʙᴜʏ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ : ʀᴇᴍᴏᴠᴇ ᴀᴅꜱ ✨', callback_data="seeplans")                            
+                            InlineKeyboardButton('✨ ʙᴜʏ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ : ʀᴇᴍᴏᴠᴇ ᴀᴅꜱ ✨', callback_data="")                            
                         ]
                     ]
                 )
@@ -812,7 +812,7 @@ async def delete_all_index(bot, message):
 @Client.on_callback_query(filters.regex(r'^autofilter_delete'))
 async def delete_all_index_confirm(bot, message):
     await Media.collection.drop()
-    await message.answer('♥️ Thank You LazyDeveloper ♥️')
+    await message.answer('♥️ Thank You KeshavTheOwner ♥️')
     await message.message.edit('Succesfully Deleted All The Indexed Files.')
 
 @Client.on_message(filters.command('settings'))
@@ -928,7 +928,7 @@ async def settings(client, message):
             ]
         else:
             buttons = [
-                [InlineKeyboardButton("Contact Developer", url=f"https://t.me/LazyDeveloperr")]
+                [InlineKeyboardButton("Contact Developer", url=f"https://t.me/Mahesh8182")]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
 
@@ -1138,7 +1138,7 @@ async def plan(client, message):
 	
         InlineKeyboardButton("📲 ꜱᴇɴᴅ ᴘᴀʏᴍᴇɴᴛ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ʜᴇʀᴇ", url=f"https://t.me/{ADMIN_USRNM}")],[InlineKeyboardButton("❌ ᴄʟᴏꜱᴇ ❌", callback_data="close_data")
     ]]
-    await message.reply_photo(photo="https://i.ibb.co/99pp6bS/PAY-TO-MAHESH.jpg", caption=script.PLANS_TXT.format(message.from_user.mention, UPI_ID, QR_CODE_IMG), reply_markup=InlineKeyboardMarkup(btn), parse_mode=enums.ParseMode.HTML)
+    await message.reply_photo(photo="", caption=script.PLANS_TXT.format(message.from_user.mention, UPI_ID, QR_CODE_IMG), reply_markup=InlineKeyboardMarkup(btn), parse_mode=enums.ParseMode.HTML)
 
 @Client.on_message(filters.command("shortlink"))
 async def shortlink(bot, message):
@@ -1286,3 +1286,4 @@ async def removetutorial(bot, message):
     reply = await message.reply_text("<b>ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ...</b>")
     await save_group_settings(grpid, 'is_tutorial', False)
     await reply.edit_text(f"<b>Tutorial link removed ✔</b>")
+
