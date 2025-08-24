@@ -27,11 +27,11 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '')
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
 PICS = (environ.get('PICS', 'https://envs.sh/F-4.jpg')).split()
-PRIME_LOGO = (environ.get('PRIME_LOGO', 'https://i.ibb.co/99pp6bS/PAY-TO-MAHESH.jpg'))
+PRIME_LOGO = (environ.get('PRIME_LOGO', ''))
 
 # payment
-QR_CODE_IMG = environ.get('QR_CODE_IMG','https://i.ibb.co/99pp6bS/PAY-TO-MAHESH.jpg') #add url link of your qr code to recieve money - use telegraph bot or other source to get image
-UPI_ID = environ.get('UPI_ID', 'ddbambhava8182@okicici') #enter your upi id here - grab it from your online payment methods.
+QR_CODE_IMG = environ.get('QR_CODE_IMG','') #add url link of your qr code to recieve money - use telegraph bot or other source to get image
+UPI_ID = environ.get('UPI_ID', '') #enter your upi id here - grab it from your online payment methods.
 
 # Admins, Channels & Users *
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6859451629 8211449985').split()]
@@ -198,5 +198,6 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 # 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
 # for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
 # rip paid developers 🤣 - >> No need to buy paid source code while @LazyDeveloperr is here 😍😍
+
 
 
