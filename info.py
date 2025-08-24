@@ -67,7 +67,7 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'KeshavTheOwner')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), False)
-CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "⚡<b>File uploaded by [vegamoviesnewin™](https://t.me/vegamoviesnewin)</b>⚡\n\n📂<b>File Name:</b> ⪧ \n <b>Size: </b>{file_size}\n\n❤")
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "⚡<b>File uploaded by [KrystalMovix™](https://t.me/nexuskingdom_official)</b>⚡\n\n📂<b>File Name:</b> ⪧ \n <b>Size: </b>{file_size}\n\n❤")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "<b>Your Query: {query}</b> \n‌‌‌‌🏷 Title: <a href={url}>{title}</a>\n🎭 Genres: {genres}\n📆 Year: <a href={url}/releaseinfo>{year}</a>\n🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 \n\n♥️ we are nothing without you ♥️ \n\n💛 Please Share Us 💛\n\n⚠️Click on the button 👇 below to get your query privately")
 LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
@@ -86,9 +86,9 @@ LAZY_MODE = bool(environ.get("LAZY_MODE")) #make it true to enable file renaming
 
 # Requested Content template variables --- 
 ADMIN_USRNM = environ.get('ADMIN_USRNM','KeshavTheOwner') # WITHOUT @
-MAIN_CHANNEL_USRNM = environ.get('MAIN_CHANNEL_USRNM','vegamoviesnewin') # WITHOUT @
-DEV_CHANNEL_USRNM = environ.get('DEV_CHANNEL_USRNM','vegamoviesnewin') # WITHOUT @
-LAZY_YT_HANDLE = environ.get('LAZY_YT_HANDLE','LayDeveloperr')  # WITHOUT @ [  add only handle - don't add full url  ] 
+MAIN_CHANNEL_USRNM = environ.get('MAIN_CHANNEL_USRNM','nexuskingdom_official') # WITHOUT @
+DEV_CHANNEL_USRNM = environ.get('DEV_CHANNEL_USRNM','nexuskingdom_official') # WITHOUT @
+LAZY_YT_HANDLE = environ.get('LAZY_YT_HANDLE','dev_bambhava')  # WITHOUT @ [  add only handle - don't add full url  ] 
 MOVIE_GROUP_USERNAME = environ.get('MOVIE_GROUP_USERNAME', "movies_request_groups_9") #[ without @ ]
 
 # Url Shortner
@@ -108,7 +108,7 @@ my_users = [int(my_users) if id_pattern.search(my_users) else my_users for my_us
 MY_USERS = (my_users) if my_users else [] #input the id of that users who can share file in file protection mode
 
 # Online Stream and Download
-PORT = int(environ.get('PORT', 8081))
+PORT = int(environ.get('PORT', 8080))
 NO_PORT = bool(environ.get('NO_PORT', False))
 APP_NAME = None
 if 'DYNO' in environ:
@@ -176,11 +176,11 @@ DISCUSSION_CHAT_USRNM = "akDiscussion_group" #without @
 
 # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO Download 📥"
-DOWNLOAD_TEXT_URL = "https://t.me/akimax03/814"
+DOWNLOAD_TEXT_URL = "https://t.me/Themoviesnexustutorial/11"
 
 # Custom Caption Under Button #
 CAPTION_BUTTON = "Get Updates"
-CAPTION_BUTTON_URL = "https://t.me/vegamoviesnewin"
+CAPTION_BUTTON_URL = "https://t.me/nexuskingdom_official"
 
 LOG_STR = "Current Cusomized Configurations are:-\n"
 LOG_STR += ("IMDB Results are enabled, Bot will be showing imdb details for you queries.\n" if IMDB else "IMBD Results are disabled.\n")
@@ -198,6 +198,7 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 # 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
 # for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
 # rip paid developers 🤣 - >> No need to buy paid source code while @LazyDeveloperr is here 😍😍
+
 
 
 
