@@ -8,7 +8,7 @@ Glad to see you here.
 Glad to see you here.
     """
     DNT_TEXT = """Hey sweetie {},
-Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/DonateLazyDeveloper>Click here...</a>\n\nT❤️ hank you so much..
+Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/KeshavTheOwner >KeshavTheOwner's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/KeshavTheOwner>Click here...</a>\n\nT❤️ hank you so much..
     """
     REQ_AUTH_TEXT = """Hello {},
 \nSorry sweetie.. You must have to be the Authentic User to complete this operation...
@@ -66,7 +66,7 @@ Thanks for thinking about us.\nIt seems that you really love <a href=https://t.m
 
     UPLOAD_START = "<b>initiating Lazy Upload ⚡</b>"
 
-    LAZY_UPLOAD_START = """<b>●❤♡ Recieving Lazy File ♡❤●</b>\n\n⏯**File Name:** `{}`"""
+    LAZY_UPLOAD_START = """<b>●❤♡ Recieving Dev File ♡❤●</b>\n\n⏯**File Name:** `{}`"""
 
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "▼ Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n▲ Uᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs\n\n★.•☆•.★𑁔𑁔★ 𝖽𝖾𝗍✫𝗂𝗅𝗌 ★𑁔𑁔★.•☆•.★\n\n🔗<b>URL:</b> {}\n\n✩📂<b>F Name:</b> `{}`\n\n✩📝<b>C Name:</b> `{}`\n\n🧬**File Size:** `{}`\n\n🧡Thank you🧡"
 
@@ -107,8 +107,8 @@ Here is the help for my COMMANDS."""
 
 """
     ABOUT_TXT = """✯ 𝕚𝕥𝕤❜𝕤 me: {}
-✯ OWNER: <a href=https://t.me/Mahesh8182> Mahesh Bambhava </a>
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/LazyDeveloper> LazyDeveloperr </a>
+✯ OWNER: <a href=https://t.me/KeshavTheOwner> KeshavTheOwner </a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Mahesh8182> DEV BAMBHAVA </a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -119,7 +119,7 @@ Here is the help for my COMMANDS."""
     SOURCE_TXT = """<b>NOTE:</b>
 - 🎉private sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
-- 👑OWNER - @Mahesh8182
+- 👑OWNER - @KeshavTheOwner
 """
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -213,20 +213,9 @@ Name - {}
 """
     PLANS_TXT = """<b>👋 ʜᴇʏ {},
     
-<i>🎖️ ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs :</i>
+<i>🎖️ Bᴏᴛ Nᴏᴛ Hᴀᴠᴇ Aɴʏ Pʟᴀɴs :</i>
 
-● <code>02₹</code> ➛ <u>ʙʀᴏɴᴢᴇ ᴘʟᴀɴ</u> » <code>7 ᴅᴀʏꜱ</code>
-● <code>09₹</code> ➛ <u>Sɪʟᴠᴇʀ ᴘʟᴀɴ</u> » <code>31 ᴅᴀʏꜱ</code>
-● <code>23₹</code> ➛ <u>ɢᴏʟᴅ ᴘʟᴀɴ</u> » <code>91 ᴅᴀʏꜱ</code>
-● <code>49₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>181 ᴅᴀʏꜱ</code>
-● <code>99₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>366 ᴅᴀʏꜱ</code>
-
-♥ ᴜᴘɪ ɪᴅ - <code>{}</code>
-📸 sᴄᴀɴ QR - <a href='{}'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ Pay</a>
-
-⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
-
-‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
+</b>"""
     PROGRESS_BAR = """\n
 ╭━━━━❰ PROGRESS BAR ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
@@ -234,3 +223,4 @@ Name - {}
 ┣⪼ 🚀 : {3}/s
 ┣⪼ ⏱️ : {4}
 ╰━━━━━━━━━━━━━━━➣ """
+
