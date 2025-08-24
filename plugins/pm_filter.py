@@ -405,7 +405,7 @@ async def next_page(bot, query):
         ])
     btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ HOW TO Download ⚡", url='https://t.me/akimax03/814'),
+	    InlineKeyboardButton(text="⚡ HOW TO Download ⚡", url='https://t.me/Themoviesnexustutorial/11'),
         ] 
     )
     if 0 < offset <= 10:
@@ -725,7 +725,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
         ])
         btn.insert(0,
             [ 
-            InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/akimax03/814'),
+            InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/Themoviesnexustutorial/11'),
             ] 
         )
 
@@ -1038,7 +1038,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
         ])
         btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/akimax03/814'),
+	    InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/Themoviesnexustutorial/11'),
         ] 
     )
 
@@ -1323,7 +1323,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         ])
         btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/akimax03/814'),
+	    InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/Themoviesnexustutorial/11'),
         ])
 
         if offset != "":
@@ -1672,7 +1672,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton('⚙ Sᴇᴛᴛɪɴɢs', callback_data='openSettings'),
                 InlineKeyboardButton('♥️ Aʙᴏᴜᴛ', callback_data='about')
             ],[
-                InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/vegamoviesnewin')
+                InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/nexuskingdom_official')
             ],[
                 InlineKeyboardButton('💸 E𝐚𝐫𝐧 M𝐨𝐧𝐞𝐲 💸', callback_data="shortlink_info")
             ]]
@@ -1689,7 +1689,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⚙ Sᴇᴛᴛɪɴɢs', callback_data='openSettings'),
             InlineKeyboardButton('♥️ Aʙᴏᴜᴛ', callback_data='about')
         ],[
-            InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/vegamoviesnewin')
+            InlineKeyboardButton('⪦ 𝕄𝕆𝕍𝕀𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 ⪧', url='https://t.me/nexuskingdom_official')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -1923,7 +1923,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Sᴇᴀʀᴄʜ 🇭​​​​​🇪​​​​​🇷​​​​​🇪​​​​​ 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ 🐞", url=f"https://telegram.me/LazyDeveloperSupport")
+                InlineKeyboardButton(text=f"🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ 🐞", url=f"https://telegram.me/KeshavTheOwner")
             ]]
             btn_lzdv = [
                 [
@@ -1948,7 +1948,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Sᴇᴀʀᴄʜ 🇭​​​​​🇪​​​​​🇷​​​​​🇪​​​​​ 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ 🐞", url=f"https://telegram.me/LazyDeveloperSupport")
+                InlineKeyboardButton(text=f"🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ 🐞", url=f"https://telegram.me/KeshavTheOwner")
             ]]
             btn_lzdv = [
                 [
@@ -1973,7 +1973,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Sᴇᴀʀᴄʜ 🇭​​​​​🇪​​​​​🇷​​​​​🇪​​​​​ 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ 🐞", url=f"https://telegram.me/LazyDeveloperSupport")
+                InlineKeyboardButton(text=f"🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ 🐞", url=f"https://telegram.me/KeshavTheOwner")
             ]]
             btn_lzdv = [
                 [
@@ -1998,7 +1998,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Sᴇᴀʀᴄʜ 🇭​​​​​🇪​​​​​🇷​​​​​🇪​​​​​ 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ 🐞", url=f"https://telegram.me/LazyDeveloperSupport")
+                InlineKeyboardButton(text=f"🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ 🐞", url=f"https://telegram.me/KeshavTheOwner")
             ]]
             btn_lzdv = [
                 [
@@ -2023,7 +2023,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 Sᴇᴀʀᴄʜ 🇭​​​​​🇪​​​​​🇷​​​​​🇪​​​​​ 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ 🐞", url=f"https://telegram.me/LazyDeveloperSupport")
+                InlineKeyboardButton(text=f"🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ 🐞", url=f"https://telegram.me/KeshavTheOwner")
             ]]
             btn_lzdv = [
                 [
@@ -2656,7 +2656,7 @@ async def auto_filter(client, msg, spoll=False):
     ])
     btn.insert(0,
     [ 
-    InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/c/2339752522/814'),
+    InlineKeyboardButton(text="⚡ HOW TO DOWNLOAD ⚡", url='https://t.me/Themoviesnexustutorial/11'),
     ])
 
     if offset != "":
@@ -2901,3 +2901,4 @@ async def manual_filters(client, message, text=False):
                 break
     else:
         return False
+
